@@ -1,4 +1,4 @@
-# Sales Analysis using Excel
+# Sales Insights Data Analysis Project Using Excel
 
 # Bike Sales Dashboard
 
